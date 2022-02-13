@@ -14,7 +14,7 @@ case 0:
     case 1:
     printf("it's an odd number ");
     break;
-Default:
+default:
 Printf("invalid input");
 break;
     }
